@@ -22,6 +22,7 @@ A really good adding/subtracting function.
 If Carlsberg made adding functions, they'd make a function like this.
 
 A work of pure genius.
+A must have.
 }
 \examples{
 add(5, 10)

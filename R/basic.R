@@ -4,6 +4,7 @@
 #' If Carlsberg made adding functions, they'd make a function like this.
 #'
 #' A work of pure genius.
+#' A must have.
 #' @param x a number
 #' @param y another number
 #' @return a number
